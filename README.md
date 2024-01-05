@@ -1,4 +1,4 @@
-# tailwind-css-from-scratch
+# Tailwind CSS From Scratch
 
 ## 설명
 
