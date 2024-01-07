@@ -9,3 +9,4 @@
 | #   | 프로젝트                                                     |
 | --- | ------------------------------------------------------------ |
 | 01  | [Email Subscribe](./mini-projects/email-subscribe/README.md) |
+| 02  | [Pricing Cards](./mini-projects/pricing-cards/README.md)     |
