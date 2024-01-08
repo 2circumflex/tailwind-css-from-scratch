@@ -11,3 +11,4 @@
 | 01  | [Email Subscribe](./mini-projects/email-subscribe/README.md) |
 | 02  | [Pricing Cards](./mini-projects/pricing-cards/README.md)     |
 | 03  | [Product Modal](./mini-projects/product-modal/README.md)     |
+| 04  | [Image Gallery](./mini-projects/image-gallery/README.md)     |
