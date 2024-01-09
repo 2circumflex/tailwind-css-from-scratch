@@ -12,3 +12,4 @@
 | 02  | [Pricing Cards](./mini-projects/pricing-cards/README.md)     |
 | 03  | [Product Modal](./mini-projects/product-modal/README.md)     |
 | 04  | [Image Gallery](./mini-projects/image-gallery/README.md)     |
+| 05  | [Login Modal](./mini-projects/login-modal/README.md)         |
