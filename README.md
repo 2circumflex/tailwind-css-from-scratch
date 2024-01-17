@@ -16,6 +16,7 @@
 
 ## 웹사이트 프로젝트
 
-| #   | 웹사이트 프로젝트                                   |
-| --- | --------------------------------------------------- |
-| 01  | [Clipboard](./website-projects/clipboard/README.md) |
+| #   | 웹사이트 프로젝트                                       |
+| --- | ------------------------------------------------------- |
+| 01  | [Clipboard](./website-projects/clipboard/README.md)     |
+| 02  | [Loopstudios](./website-projects/loopstudios/README.md) |
