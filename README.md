@@ -20,3 +20,4 @@
 | --- | ------------------------------------------------------- |
 | 01  | [Clipboard](./website-projects/clipboard/README.md)     |
 | 02  | [Loopstudios](./website-projects/loopstudios/README.md) |
+| 03  | [Shortly](./website-projects/shortly/README.md)         |
