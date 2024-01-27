@@ -21,4 +21,5 @@
 | 01  | [Clipboard](./website-projects/clipboard/README.md)                       |
 | 02  | [Loopstudios](./website-projects/loopstudios/README.md)                   |
 | 03  | [Shortly](./website-projects/shortly/README.md)                           |
-| 03  | [Testimonial Grid Project](./website-projects/testimonial-grid/README.md) |
+| 04  | [Testimonial Grid Project](./website-projects/testimonial-grid/README.md) |
+| 05  | [Fylo Website With Color Picker](./website-projects/fylo/README.md)       |
