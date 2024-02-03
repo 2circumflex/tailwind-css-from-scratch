@@ -23,3 +23,4 @@
 | 03  | [Shortly](./website-projects/shortly/README.md)                           |
 | 04  | [Testimonial Grid Project](./website-projects/testimonial-grid/README.md) |
 | 05  | [Fylo Website With Color Picker](./website-projects/fylo/README.md)       |
+| 06  | [Bookmark Manager Site](./website-projects/bookmark/README.md)            |
